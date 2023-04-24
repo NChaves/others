@@ -2,13 +2,13 @@
 
 #EXTINF:-1 group-title="TV" tvg-id="sicnovelashd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Novelas.png",SIC Novelas
 https://eventos.live.impresa.pt/opto_in2.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
+#EXTINF:-1 group-title="TV" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvi.png",TVI
 https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDIzIDQ6MjE6MjcgUE0maGFzaF92YWx1ZT0yeG44U24rQnZscmI0Nm9nRnJmdk9RPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MTg4OGFjNmQtMWQzZi00NzliLWJjNmMtMDg4NGE0YmU1YmYw/
 #EXTINF:-1 group-title="TV" tvg-id="TVIInt.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
 https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDIzIDQ6MjE6MjggUE0maGFzaF92YWx1ZT1pbVlpOHhRTGE4Rm1NRVRxYzNnYlJRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NmUyMjBjNjAtZmQ5MS00MmRiLThmMmQtZjNjZmMxNTRmZTMy/
-#EXTINF:-1 group-title="TV" tvg-id="TVIAFR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI_África.png",TVI África
+#EXTINF:-1 group-title="TV" tvg-id="TVIAFR.meo.pt" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tviafrica.png",TVI África
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="tvificcao.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Ficção.png",TVI Ficção
+#EXTINF:-1 group-title="TV" tvg-id="tvificcao.tv.vodafone.pt" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png",TVI Ficção
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="tvireality.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality
+#EXTINF:-1 group-title="TV" tvg-id="tvireality.tv.vodafone.pt" tvg-logo="<img src="https://cdn.iol.pt/img/logostvi/branco/tvireality.png" width="30">",TVI Reality
 https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDIzIDQ6MjE6MjkgUE0maGFzaF92YWx1ZT1tY2FQV0JPUDlnZHAzK2VmZWlBbEJ3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9M2RmNTQ5MWQtYmFhOS00NGNjLWJiYWYtOGQyZGYyNzc4ZDc3/
