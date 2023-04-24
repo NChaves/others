@@ -10,5 +10,5 @@ https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlis
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="tvificcao.tv.vodafone.pt" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png",TVI Ficção
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="tvireality.tv.vodafone.pt" tvg-logo="<img src="https://cdn.iol.pt/img/logostvi/branco/tvireality.png" width="30">",TVI Reality
+#EXTINF:-1 group-title="TV" tvg-id="tvireality.tv.vodafone.pt" tvg-logo="<img src="https://cdn.iol.pt/img/logostvi/branco/tvireality.png">",TVI Reality
 https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDIzIDQ6MjE6MjkgUE0maGFzaF92YWx1ZT1tY2FQV0JPUDlnZHAzK2VmZWlBbEJ3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9M2RmNTQ5MWQtYmFhOS00NGNjLWJiYWYtOGQyZGYyNzc4ZDc3/
