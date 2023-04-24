@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="TV" tvg-id="sicnovelashd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Novelas.png",SIC Novelas
+https://eventos.live.impresa.pt/opto_in2.m3u8
